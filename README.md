@@ -42,7 +42,7 @@ Missing Data: 37 values in Review Rating column
 
 ### Exploratory Data Analysis using Python
 
-We began with data preparation and cleaning in Python:.
+We began with data preparation in Python:.
 
 * Data Loading: Imported the dataset using pandas.
 ```python
