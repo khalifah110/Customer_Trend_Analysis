@@ -14,7 +14,9 @@ You are tasked with analyzing the company's consumer behavior dataset to answer 
 
 3. Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-4. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in a well-structured repository.
+4. Automate Dashboard To get real Time Result
+
+5. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in a well-structured repository.
 
 # Project Diagram
  
