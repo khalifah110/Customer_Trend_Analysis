@@ -16,6 +16,12 @@ You are tasked with analyzing the company's consumer behavior dataset to answer 
 
 4. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in a well-structured repository.
 
+# Project Diagram
+ 
+
+<img width="1306" height="596" alt="Screenshot 2026-01-21 164753" src="https://github.com/user-attachments/assets/eb0e047f-b23a-45a1-b54f-2b63012a54e5" />
+
+
 
 
 # Project Overview
