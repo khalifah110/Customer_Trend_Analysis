@@ -505,13 +505,13 @@ Average Review Rating = AVERAGE('public customer_data'[review_rating])
 <img width="1310" height="666" alt="Screenshot 2025-12-31 111738" src="https://github.com/user-attachments/assets/d44a3199-b9ec-4fd5-bb3a-4023d404a08a" />
 
 
-### The dashboard was fully automated to ensure scheduled data refreshes and continuous access to up-to-date insights.
+#### The dashboard was fully automated to ensure scheduled data refreshes and continuous access to up-to-date insights.
 
 
 # Customer Behavior Analysis: Key Insights & Recommendations
 
 
-## 📈 Key Performance Indicators (KPIs)
+### 📈 Key Performance Indicators (KPIs)
 
 | Metric | Value |
 | :--- | :--- |
@@ -521,7 +521,7 @@ Average Review Rating = AVERAGE('public customer_data'[review_rating])
 
 
 
-## 📊 Business Insights
+### 📊 Business Insights
 
 Based on the dashboard analysis of **3.9K customers**, the following key trends have been identified:
 
