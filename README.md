@@ -471,9 +471,6 @@ ORDER BY total_revenue DESC;
 | Adult        | 55978         |
 | Senior       | 55763         |
 
-## And Finally I Connect My Database To Powwer BI To Build Dashboard
-
-<img width="1310" height="666" alt="Screenshot 2025-12-31 111738" src="https://github.com/user-attachments/assets/d44a3199-b9ec-4fd5-bb3a-4023d404a08a" />
 
 
 ## 🧮 DAX Measures & Calculations
@@ -497,6 +494,20 @@ Average Purchse Amount = AVERAGE('public customer_data'[purchase_amount])
 // Average Customer Satisfaction
 Average Review Rating = AVERAGE('public customer_data'[review_rating])
 ```
+
+
+
+
+
+## PostgreSQL Integration with Power BI For Dashboard Development
+
+
+<img width="1310" height="666" alt="Screenshot 2025-12-31 111738" src="https://github.com/user-attachments/assets/d44a3199-b9ec-4fd5-bb3a-4023d404a08a" />
+
+
+### The dashboard was fully automated to ensure scheduled data refreshes and continuous access to up-to-date insights.
+
+
 # Customer Behavior Analysis: Key Insights & Recommendations
 
 
