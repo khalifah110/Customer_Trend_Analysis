@@ -499,6 +499,17 @@ Average Review Rating = AVERAGE('public customer_data'[review_rating])
 ```
 # Customer Behavior Analysis: Key Insights & Recommendations
 
+
+## 📈 Key Performance Indicators (KPIs)
+
+| Metric | Value |
+| :--- | :--- |
+| **Total Customers** | 3.9K |
+| **Average Purchase Amount** | $59.76 |
+| **Average Review Rating** | 3.75 / 5.0 |
+
+
+
 ## 📊 Business Insights
 
 Based on the dashboard analysis of **3.9K customers**, the following key trends have been identified:
@@ -509,15 +520,6 @@ Based on the dashboard analysis of **3.9K customers**, the following key trends 
 * **Broad Market Appeal:** Despite Young Adults leading, revenue is remarkably consistent across **Middle-aged, Senior, and Adult** groups (all near the 1,000 mark), suggesting the brand has a strong "ageless" appeal.
 * **Underperforming Categories:** **Outerwear** shows the lowest sales volume, suggesting a need for seasonal promotions or a review of the current product-market fit for that category.
 
----
-
-## 📈 Key Performance Indicators (KPIs)
-
-| Metric | Value |
-| :--- | :--- |
-| **Total Customers** | 3.9K |
-| **Average Purchase Amount** | $59.76 |
-| **Average Review Rating** | 3.75 / 5.0 |
 
 ---
 
